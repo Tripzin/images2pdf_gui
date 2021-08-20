@@ -20,7 +20,6 @@ layout = [
                 key="input_dir_list",
                 size=(43, 10),
                 select_mode=LISTBOX_SELECT_MODE_MULTIPLE,
-                expand_x=True,
             )
         ],
     ],
